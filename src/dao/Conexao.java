@@ -62,9 +62,4 @@ public class Conexao {
         }
     }
    
-    public static void main(String[] args) {
-       Conexao c = new Conexao();
-       c.abrirConexao();
-        System.out.println(status);
-    }
 }
